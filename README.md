@@ -1,25 +1,22 @@
-### Hi, I'm Danial 👋
+# C Programming Projects
 
-Computer Science student at Wenzhou University, focused on programming fundamentals, AI, and cybersecurity.
+A collection of C programming exercises and mini-projects, focused on algorithms, problem-solving, and core programming fundamentals.
 
-- 🎓 CS student @ Wenzhou University - GPA 4.5/5.0
-- 🔐 Exploring cybersecurity and applied AI
-- 💻 Currently practicing C, data structures & algorithms, and Python
-- 🌍 Speak Kazakh, Russian, English - learning Mandarin
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/danial-tuktazhanov-6352a2423)
+## Projects
 
----
+- **[Fibonacci Sequence](./fibonacci.c)** — Generates and prints the first *n* numbers in the Fibonacci sequence.
+- **[Digit Sum](./digit-sum/digit_sum.c)** — Calculates the sum of digits of a given integer.
+- **[Basic I/O](./basic-io/basic_io.c)** — Demonstrates basic input/output handling in C, including conditional logic.
 
-### 🛠️ Languages & Tools
+## How to Run
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+```bash
+gcc fibonacci.c -o fibonacci
+./fibonacci
+```
 
----
+## About Me
 
-### 📌 Featured Projects
+I'm a Computer Science student at Wenzhou University, focused on programming fundamentals, AI, and cybersecurity. This repository is where I practice and document my progress as I build toward more advanced projects.
 
-- **[C Programming Projects](https://github.com/dtuktazhanov07-commits/c-programming-projects)** - Algorithms, I/O handling, and problem-solving exercises in C
-- More projects coming soon - cybersecurity and AI focused work in progress 🚧
+- LinkedIn: [linkedin.com/in/danial-tuktazhanov-6352a2423](https://www.linkedin.com/in/danial-tuktazhanov-6352a2423)
